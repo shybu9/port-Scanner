@@ -1,5 +1,5 @@
 # port_Scanner
-       ~ THIS TOOL IS USED SCAN PORTS AND DUMP ALL THE OPEN PORTS AND THEIR SERVICE INFO
+       ~ THIS TOOL IS TO USED SCAN PORTS AND DUMP ALL THE OPEN PORTS AND THEIR SERVICE INFO
 ![portscanner help](https://user-images.githubusercontent.com/112984045/201478041-a8c84132-b5b8-4bda-91df-16f3d13ac5ea.png)
 ![portscanner 1](https://user-images.githubusercontent.com/112984045/201478076-0e223306-ad44-4463-ae55-f62c6fdc5c5b.png)
 ![portscanner 0](https://user-images.githubusercontent.com/112984045/201478081-581bde0e-616f-40cf-8131-924f0c415c59.png)
