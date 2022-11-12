@@ -4,6 +4,8 @@
 ![portscanner 1](https://user-images.githubusercontent.com/112984045/201478076-0e223306-ad44-4463-ae55-f62c6fdc5c5b.png)
 ![portscanner 0](https://user-images.githubusercontent.com/112984045/201478081-581bde0e-616f-40cf-8131-924f0c415c59.png)
 
+<img width = 500 height = 300 src="https://user-images.githubusercontent.com/112984045/201478076-0e223306-ad44-4463-ae55-f62c6fdc5c5b.png" alt ="screenshot here..." /><img width = 500 height = 300 src="https://user-images.githubusercontent.com/112984045/201478081-581bde0e-616f-40cf-8131-924f0c415c59.png" alt ="screenshot here..." />
+
 ## TESTED ON
 * KALI LINUX VM(terminal) <br>
 * BLACKBOX UBUNTU VM <br>
