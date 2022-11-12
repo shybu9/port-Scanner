@@ -1,1 +1,9 @@
-
+sys
+argparse
+colorama
+pyfiglet
+time
+queue
+threading
+socket
+requests
