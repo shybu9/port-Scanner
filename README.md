@@ -17,7 +17,7 @@
   
   
   
-* script_requirements (after downloading_script) : 
+* script_requitements (after downloading_script) :
  ```bash 
      sudo pip3 install -r requirements.txt 
  ```
