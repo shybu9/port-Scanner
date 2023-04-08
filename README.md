@@ -25,7 +25,7 @@
  ```
 ### DOWNLOADING_SCRIPT :
  ```bash 
-     sudo git clone https://github.com/shybu9/portscanner.git 
+     sudo git clone https://github.com/shybu9/port-Scanner
  ``` 
 
 ## USAGE
