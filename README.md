@@ -14,7 +14,7 @@
 ### PRE-REQUIREMENTS  
 * Python3 :
  ```bash 
-     sudo apt-get install python3 
+     sudo apt-get install python3 python3-pip
  ``` 
   
   
@@ -39,4 +39,4 @@
  - After a successful scan you would get all the open ports and their services.
  
 * any remarks:<br> 
-####      do write to shy.bu9@gmail.com
+####      Do write to shy.bu9@gmail.com
