@@ -37,6 +37,12 @@
  `$ sudo python3 portscanner.py -i 127.0.0.1 -p1 900 -p2 905 -v 0 -T 5`
   
  - After a successful scan you would get all the open ports and their services.
- 
+
+#### Do check the dockerized version of this tool - have a hustle-free experience with this portscanner with a single command:
+![here](https://github.com/shybu9/dockerized_tools/tree/main/Port_scanner)
+
+
+
+
 * any remarks:<br> 
 ####      Do write to shy.bu9@gmail.com
